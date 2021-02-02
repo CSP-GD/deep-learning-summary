@@ -5,11 +5,12 @@ tags: 深度學習綱要
 ## 目錄
 * **[基本知識](#基本知識)**
 * **[學習方式](https://hackmd.io/V3lYpeuKSy6PVp5kygoEBg)**
-    * 監督
-    * 半監督
-    * 非監督
-    * 增強式
+    * 監督式學習(supervised learning)
+    * 半監督式學習(Semi-supervised learning)
+    * 非監督式學習(Unsupervised learning)
+    * 增強式學習(Reinforcement learning)
 * **[基底模型](https://hackmd.io/DVk6IspcR8-kG_v_sIJknw)**
+    * DNN
     * CNN
     * RNN
     * Transformer
@@ -65,7 +66,8 @@ tags: 深度學習綱要
     * Neural Turing Machine (NTM)
     * Differentiable Neural Computer (DNC)
     * Neural GPU
-* **生成模型**
+* **[生成模型](https://hackmd.io/Z-rDpZbqTz26k7D9TYXWSQ)**
+    * Auto Regressive Model
     * Auto Encoder
     * GAN
     * Flow-Based
@@ -97,10 +99,10 @@ tags: 深度學習綱要
         * RetinaNet
     * 其他？
         * Detection with Transformer (DETR) 
-* **Attention**
-    * Self Attention
-    * 
-* **Meta-learning**
+* **Attention**  
+[參考](http://xtf615.com/2019/01/06/attention/)
+
+* **[Meta-learning](https://hackmd.io/qiRi4GHDTQOkfVIqEVVKFQ)**
     * memory based
     * metric based
         * siamese network
@@ -108,7 +110,7 @@ tags: 深度學習綱要
         * prototypical network
         * relation network
     * optimizer based
-* 音訊
+* **音訊**
     * Temporal Convolution Network
     * TasNet
     * Conv TasNet
@@ -128,3 +130,4 @@ tags: 深度學習綱要
 * Regularization
 * optimizer
 * backpropagation
+* loss function
