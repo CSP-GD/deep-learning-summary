@@ -38,10 +38,6 @@ tags: 深度學習綱要
 - optimizer based
 ### 遷移學習（Transfer Learning）
 ### 對比學習（Contrastive Learning）
-- MOCO
-- SimCLR
-- BYOL
-- SimSiam
 ### Life-long learning
 又稱為 Continuous Learning、Never Ending Learning、Incremental Learning
 
@@ -108,7 +104,6 @@ tags: 深度學習綱要
 - Auto Encoder
 - GAN
 - Flow-Based
-- Diffusion Model
 ### [物件偵測](https://hackmd.io/M4LW1fKcRHaN5tZPhkGKcw?view)
 - Anchor Based
     - RCNN
@@ -120,7 +115,6 @@ tags: 深度學習綱要
     - Fully Convolutional One-Stage Object Detection (FCOS)
     - CenterNet
     - RPDet
-    - Cornernet
 - One Stage
     - Yolo
     - Fully Convolutional One-Stage Object Detection (FCOS)
@@ -141,20 +135,13 @@ tags: 深度學習綱要
 - Temporal Convolution Network
 - TasNet
 - Conv TasNet
-- Deep Complex Unet
-- Transformer with Gaussian Weighted Self-Attention
-- Sepformer
-
-### Neural Radiance Fields
-> https://github.com/yenchenlin/awesome-NeRF
-- NeRF
 
 ### 自然語言處理
 ## Attention  
 [參考](http://xtf615.com/2019/01/06/attention/)
 
 ## [分群方法](https://hackmd.io/yIfbZ8XdT8eR4zRgDLfiMg?view)
-## [資料集](https://hackmd.io/gp_vF3XSQZOVJfiX7ELDBw?both)
+## 資料集
 ## 參考文獻
 ## [其他資源](https://hackmd.io/SXPIpGJDTieVl2nDEAJbsA?view)
 <!-- ## 基本知識
